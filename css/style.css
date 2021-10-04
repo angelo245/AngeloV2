@@ -1,0 +1,42 @@
+body{
+    /* background-size: cover;
+    background-image: url(../images/sky.jpg); */
+    background-color: rgb(56, 55, 55);
+}
+
+header{
+    text-align: center;
+    font-size: 120px;
+    
+   
+}
+#header {
+    
+    background: rgb(236, 6, 52);
+    color:rgb(230, 180, 54);
+    font-family: 'BroadywayFlat3D-regular';
+    src: url('../fonts/BroadwayFlat3D.ttf');
+      
+    }
+.on:hover{
+    color: crimson;
+    opacity: 100%;
+    /* background-color: aqua; */
+
+}
+
+ 
+
+
+
+
+    
+
+
+
+
+
+   
+
+
+
