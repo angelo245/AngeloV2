@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(56, 55, 55);
+    background-image: url('../images/pngwing.com.png');
+    background-size:contain;
+    background-attachment:scroll;
+    background-repeat: no-repeat;
+}
+
+a{
+    color:gold;
+    font-size: 40px;
+    font-family: 'BroadywayFlat3D-regular';
+    src: url('../fonts/BroadwayFlat3D.ttf');
+    
+}
+p{
+    color: gold;
+    font-size: 25px;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 30px; 
+    padding-bottom: 30px;
+
+}
+h1{
+    color:gold;
+    font-size: 50px;
+    font-family: 'BroadywayFlat3D-regular';
+    src: url('../fonts/BroadwayFlat3D.ttf');
+    text-align: center;
+    padding-top: 300px;
+}
+
+#behind{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+
+}
+h2{
+    color:gold;
+    font-size: 40px;
+    font-family: 'BroadywayFlat3D-regular';
+    src: url('../fonts/BroadwayFlat3D.ttf');
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+li{
+    color:gold;
+    font-size: 20px;
+    font-family: 'Broadyway-regular';
+    src: url('../fonts/Broadway.ttf');
+    text-align: center;
+}
+ul{
+    color:gold;
+    font-size: 20px;
+    font-family: 'Broadyway-regular';
+    src: url('../fonts/Broadway.ttf');
+    text-align: center;
+    
+}
+.cast{
+    text-align: left;
+    padding-left: 850px;
+    padding-right: 500px;
+    
+}
+iframe{
+    height: 786px;
+    width: 1420px;
+    position: relative;
+    left: 257px;
+    right: 160px;
+    top: 1px;
+    bottom: 2px;
+    filter:blur(0px);
+}
+/* iframe:hover{
+filter: blur(0px)
+
+} */
+header{
+    text-align: center;
+    font-size: 120px;
+}
+#header {
+    background: rgb(236, 6, 52);
+    color:rgb(230, 180, 54);
+    font-family: 'BroadywayFlat3D-regular';
+    src: url('../fonts/BroadwayFlat3D.ttf');
+}
