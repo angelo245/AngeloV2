@@ -1,0 +1,86 @@
+body{
+    /* background-size: cover;
+    background-image: url(../images/sky.jpg); */
+    background-color: rgb(56, 55, 55);
+    background-image: url('../images/background.jpg');
+    background-size:cover;
+}
+img{
+           
+    width: 400px;
+    height: 700px;
+    object-fit:contain;
+   object-position: center;
+   /* opacity: 75%; */
+   }
+
+header{
+    text-align: center;
+    font-size: 120px;
+}
+
+/* a{
+    color:crimson;
+    font-size: 40px;
+    font-family: 'BroadywayFlat3D-regular';
+    src: url('../fonts/BroadwayFlat3D.ttf');
+    
+} */
+
+#header {
+    
+    background: rgb(236, 6, 52);
+    color:rgb(230, 180, 54);
+    font-family: 'BroadywayFlat3D-regular';
+    src: url('../fonts/BroadwayFlat3D.ttf');
+      
+    }
+/* .on:hover{
+
+    opacity: 100%; 
+    /* background-image: url('../images/mar_on.jpg');
+} */
+
+#one{
+   position: relative;
+   left: 40px;
+   top: 20px;
+}
+#two{
+   position: relative;
+   left: 120px;
+   top: 20px;
+}
+#three{
+   position: relative;
+   left: 200px;
+   top: 20px;
+}
+#four{
+   position: relative;
+   left: 265px;
+   top: 20px;
+}
+
+iframe{
+    height: 500px;
+    width: 700px;
+    border: solid gold 1px;
+    position: relative;
+    left: 600px;
+    bottom: -30px;
+}
+
+
+
+
+    
+
+
+
+
+
+   
+
+
+
